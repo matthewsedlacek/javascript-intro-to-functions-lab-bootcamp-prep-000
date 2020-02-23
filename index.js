@@ -11,7 +11,7 @@ var uppercase = string.toUpperCase();
   console.log (uppercase)
 }
 
-function Whisper(string) {
+function logWhisper(string) {
   var lowercase = string.toLowerCase();
   console.log(lowercase)
 }
